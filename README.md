@@ -1,5 +1,9 @@
 # Introduction
-This is a class introduction to ECE 5760 - FPGA Acceleration. Here we discuss the pre-requisite knowledge, software, setup-guides, and TA / past
+Welcome to ECE 5760 - FPGA Acceleration. I hope you all are excited to learn about the nuances that come with designing superb FPGA Accelerators!!! Within this repo you can find all the labs, lab directions, and other useful resources that will help you become better hardware engineer. The repo is organized as follows:
+
+
+
+Here we discuss the pre-requisite knowledge, software, setup-guides, and TA / past
 student recommendations that will, hopefully, help you thrive in this class.
 
 # Required Software
