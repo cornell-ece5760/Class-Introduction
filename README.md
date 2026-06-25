@@ -12,9 +12,12 @@ A predominant portion of this class will be on [GitHub](https://github.com/). He
 
 ## Vivado
 ## Vitis
-## UVM (Verilator)
+
+## Other Software
+You may find the software in this category useful during this class, but these are not strictly necessary to complete the labs! 
+### UVM (Verilator)
   - [UVM Guide by Chipverify](https://chipverify.com/uvm/uvm-installation)
-## Cocotb (Could be a plus)
+### Cocotb
   - [Cocotb Documentation Guide](https://docs.cocotb.org/en/stable/#)
 
 # Required Languages
